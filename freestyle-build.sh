@@ -1,0 +1,3 @@
+npm --version
+uptime
+pwd
